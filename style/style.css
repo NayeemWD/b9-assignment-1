@@ -335,3 +335,40 @@ height: 10px;
 
 
 }
+
+footer{
+    height: 500px;    
+    background: #070211;
+    padding: 120px 140px;
+    
+}
+
+
+.section6-part1{
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; 
+    padding-bottom: 50px;
+}
+.section6-part2{
+    text-align: center;
+    padding:40px 0px ;
+}
+.section6-part2-imgs{
+    padding: 0px 25px ;
+}
+.section6-part3{
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 50px;
+}
+
